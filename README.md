@@ -13,4 +13,4 @@ Funkcjonalności:
   
 Przykładowy screen:   
 
-![alt text](https://i.ibb.co/3mTGSWC/parking.png)
+![alt text](https://i.ibb.co/1bGDntt/parking.png)
